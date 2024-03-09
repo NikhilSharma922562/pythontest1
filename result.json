@@ -1,1 +1,24 @@
-[{"name": "student", "columns": ["StudentId", "lastName", "dept_id"], "possible_columns": ["firstName", "deptName"]}, {"name": "department", "columns": ["id"], "possible_columns": ["firstName", "deptName"]}]
+[
+    {
+        "name": "student",
+        "columns": [
+            "StudentId",
+            "lastName",
+            "dept_id"
+        ],
+        "possible_columns": [
+            "firstName",
+            "deptName"
+        ]
+    },
+    {
+        "name": "department",
+        "columns": [
+            "id"
+        ],
+        "possible_columns": [
+            "firstName",
+            "deptName"
+        ]
+    }
+]
